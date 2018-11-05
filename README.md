@@ -18,5 +18,5 @@ Some applications of Machine Learning from various sources:
   - **Housing** (Kaggle)
 
 ## Utilities
-1. **CostomURIParser**
+1. **CustomURIParser**
 The application of proper source control as well as unit tests in order to create a URI parser with the ability to determine if a string is a valid URI, whether it be relative or absolute.
