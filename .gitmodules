@@ -1,0 +1,32 @@
+[submodule "LinearRegression"]
+	path = LinearRegression
+	url = https://github.com/TanselArif-21/LinearRegression
+	branch = master
+[submodule "PrincipalComponentAnalysis"]
+	path = PrincipalComponentAnalysis
+	url = https://github.com/TanselArif-21/PrincipalComponentAnalysis
+	branch = master
+[submodule "CustomURIParser"]
+	path = CustomURIParser
+	url = https://github.com/TanselArif-21/CustomURIParser
+	branch = master
+[submodule "TimeSeriesAnalysis"]
+	path = TimeSeriesAnalysis
+	url = https://github.com/TanselArif-21/TimeSeriesAnalysis
+	branch = master
+[submodule "BayesianInference"]
+	path = BayesianInference
+	url = https://github.com/TanselArif-21/BayesianInference
+	branch = master
+[submodule "TabuBees"]
+	path = TabuBees
+	url = https://github.com/TanselArif-21/TabuBees
+	branch = master
+[submodule "LogisticRegression"]
+	path = LogisticRegression
+	url = https://github.com/TanselArif-21/LogisticRegression
+	branch = master
+[submodule "MLApplications"]
+	path = MLApplications
+	url = https://github.com/TanselArif-21/MLApplications
+	branch = master
