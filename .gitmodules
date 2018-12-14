@@ -30,3 +30,7 @@
 	path = MLApplications
 	url = https://github.com/TanselArif-21/MLApplications
 	branch = master
+[submodule "MLApp"]
+	path = MLApp
+	url = https://github.com/TanselArif-21/MLApp
+	branch = master
