@@ -23,3 +23,6 @@ A simple web app is created allowing a user to upload data and make a prediction
 ## Utilities
 1. **CustomURIParser**
 The application of proper source control as well as unit tests in order to create a URI parser with the ability to determine if a string is a valid URI, whether it be relative or absolute.
+
+2. **Web Scraper**
+This script allows the user to read review information from the review sites Tripadvisor and Yelp. It contains 1 second wait time between requests in order to conform with fair use and detect import errors due to unstable internet connection and attempts to re-import. A similar procedure can be employed to gather information from other sites that do not have APIs.
