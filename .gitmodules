@@ -34,3 +34,6 @@
 	path = MLApp
 	url = https://github.com/TanselArif-21/MLApp
 	branch = master
+[submodule "WebScraping"]
+	path = WebScraping
+	url = https://github.com/TanselArif-21/WebScraping
