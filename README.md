@@ -18,7 +18,11 @@ Some applications of Machine Learning from various sources:
   - **Housing** (Kaggle)
   
 5. **ML App**
-A simple web app is created allowing a user to upload data and make a prediction. The distribution of the data as well as the prediction is shown to the user. The app uses Python/Flask. Currently, the app uses only LinearRegression on multiple predictors. However, more sophisticated models can be slotted in.
+A simple web app is created demonstrating the following functionality:
+  - Allow the user to upload data and make a prediction of the price of a house. This pertains to a house prices dataset obtained from Kaggle.  The distribution of the data as well as the prediction is shown to the user. Currently, the app uses only LinearRegression on multiple predictors. However, more sophisticated models can be slotted in.
+  - Allow the user to upload review information in the form of text and perform Latent Discriminant Analysis (along with tf-idf) to obtain a word cloud highlighting the most important terms. Topics are also produced but these aren't displayed to the user.
+  
+The app uses Python/Flask and is only a template and so is built to run on a local server.
 
 ## Utilities
 1. **CustomURIParser**
