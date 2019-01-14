@@ -24,6 +24,13 @@ A simple web app is created demonstrating the following functionality:
   
 The app uses Python/Flask and is only a template and so is built to run on a local server.
 
+6. **Gambler's Ruin**
+The theory to the Gambler's Ruin problem. The problem is summarised as follows: A Gambler begins with $k. At each gamble, the Gambler either wins $1 with probability p or loses with probability 1-p. Assume that the Gambler will stop gambling if the Gambler's fortune reaches $N or $0. Find the probability that the Gambler goes bankrupt.
+
+An app is also created for simulation purposes displaying the trajectory in typical Random Walk style allowing the user to specify the probability p, the initial fortune k and the maximum value N. The app will also display these parameters as well as the probability obtained via the theory.
+
+The accompanying pdf contains more indepth details as well as demonstration and theory derivation.
+
 ## Utilities
 1. **CustomURIParser**
 The application of proper source control as well as unit tests in order to create a URI parser with the ability to determine if a string is a valid URI, whether it be relative or absolute.
