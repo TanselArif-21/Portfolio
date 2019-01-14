@@ -37,3 +37,6 @@
 [submodule "WebScraping"]
 	path = WebScraping
 	url = https://github.com/TanselArif-21/WebScraping
+[submodule "GamblersRuin"]
+	path = GamblersRuin
+	url = https://github.com/TanselArif-21/GamblersRuin
