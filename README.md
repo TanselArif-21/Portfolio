@@ -21,7 +21,8 @@ Some applications of Machine Learning from various sources:
 A simple web app is created demonstrating the following functionality:
   - Allow the user to upload data and make a prediction of the price of a house. This pertains to a house prices dataset obtained from Kaggle.  The distribution of the data as well as the prediction is shown to the user. Currently, the app uses only LinearRegression on multiple predictors. However, more sophisticated models can be slotted in.
   - Allow the user to upload review information in the form of text and perform Latent Discriminant Analysis (along with tf-idf) to obtain a word cloud highlighting the most important terms. Topics are also produced but these aren't displayed to the user. The input data to the app is created using the **Web Scraper** app in this portfolio.
-The app uses Python/Flask and is only a template and so is built to run on a local server.
+
+  The app uses Python/Flask and is only a template and so is built to run on a local server.
 
 6. **Gambler's Ruin**
 The theory to the Gambler's Ruin problem. The problem is summarised as follows: A Gambler begins with $k. At each gamble, the Gambler either wins $1 with probability p or loses with probability 1-p. Assume that the Gambler will stop gambling if the Gambler's fortune reaches $N or $0. Find the probability that the Gambler goes bankrupt.
