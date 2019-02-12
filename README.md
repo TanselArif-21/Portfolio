@@ -2,7 +2,7 @@
 My portfolio of projects and articles
 
 ## Published Articles
-1. **Gambler's Ruin** (Keywords: Probability, Statistics, Pygame, Random Walk)
+1. **Gambler's Ruin** (Keywords: Probability, Statistics, Pygame, Random Walk, Difference Equations)
 
 Published at locations: https://www.datasciencecentral.com/profiles/blogs/gambler-s-ruin-simulations
 
