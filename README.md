@@ -1,6 +1,17 @@
 # Portfolio
 My portfolio of projects and articles
 
+## Published Articles
+1. **Gambler's Ruin**
+Published at locations: https://www.datasciencecentral.com/profiles/blogs/gambler-s-ruin-simulations
+
+This article goes through theory to the Gambler's Ruin problem and creates visually progressing simulations using Pygame so that the user can see the progression of the simulations towards the theoretical values.
+
+The problem is summarised as follows: A Gambler begins with $k. At each gamble, the Gambler either wins $1 with probability p or loses with probability 1-p. Assume that the Gambler will stop gambling if the Gambler's fortune reaches $N or $0. Find the probability that the Gambler goes bankrupt.
+
+An app is also created for simulation purposes displaying the trajectory in typical Random Walk style allowing the user to specify the probability p, the initial fortune k and the maximum value N etc... The app will also display these parameters as well as the probability obtained via the theory.
+
+The accompanying pdf contains more indepth details as well as demonstration and theory derivation.
 
 ## Statistical Learning
 1. **Linear Regression**
@@ -28,14 +39,6 @@ A simple web app is created demonstrating the following functionality:
   - Allow the user to upload review information in the form of text and perform Latent Discriminant Analysis (along with tf-idf) to obtain a word cloud highlighting the most important terms. Topics are also produced but these aren't displayed to the user. The input data to the app is created using the **Web Scraper** app in this portfolio.
 
 The app uses Python/Flask and is only a template and so is built to run on a local server.
-
-6. **Gambler's Ruin**
-
-The theory to the Gambler's Ruin problem. The problem is summarised as follows: A Gambler begins with $k. At each gamble, the Gambler either wins $1 with probability p or loses with probability 1-p. Assume that the Gambler will stop gambling if the Gambler's fortune reaches $N or $0. Find the probability that the Gambler goes bankrupt.
-
-An app is also created for simulation purposes displaying the trajectory in typical Random Walk style allowing the user to specify the probability p, the initial fortune k and the maximum value N. The app will also display these parameters as well as the probability obtained via the theory.
-
-The accompanying pdf contains more indepth details as well as demonstration and theory derivation.
 
 ## Utilities
 1. **CustomURIParser**
