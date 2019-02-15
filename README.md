@@ -43,7 +43,7 @@ What is the probability distribution of the number of heads if you play the game
 
 3. **Bayesian Inference**
 
-  An application hypothesis testing using both Bayesian Inference with a Jeffreys Prior and usual T-Tests. Showing that these two approaches agree with each other as is the intention of such a prior.
+  An application of hypothesis testing using both Bayesian Inference with a Jeffreys Prior and usual T-Tests. Showing that these two approaches agree with each other as is the intention of such a prior.
 
 4. **ML Applications**
 
