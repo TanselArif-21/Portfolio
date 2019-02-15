@@ -13,6 +13,24 @@ My portfolio of projects and articles
   An app is also created for simulation purposes displaying the trajectory in typical Random Walk style allowing the user to specify the probability p, the initial fortune k and the maximum value N etc... The app will also display these parameters as well as the probability obtained via the theory.
 
   The accompanying pdf contains more indepth details as well as demonstration and theory derivation.
+  
+2. **Wheel Of Fortune - Bayesian Inference** (Keywords: Bayesian, Probability, Statistics)
+
+  Published at locations: https://www.datasciencecentral.com/profiles/blogs/wheel-of-fortune-bayesian-inference
+
+  The problem is as follows:
+  
+  You spin the wheel of fortune. The wheel gives 0 with probability 1/20, 1 with probability 1/2, 2 with probability 1/4, 3 with probability 3/20 and 4 with probability 1/20.
+
+Depending on the number you get from the wheel, you are allowed to flip a coin that many times and record the number of heads you get. The coin is biased towards heads with a probability of 7/10 of getting a heads.
+
+What is the probability distribution of the number of heads if you play the game?
+
+  This article derives the probability distribution of a Random Variable depending on the sum of a variables number of Random Variables. Additionally, in the case that this process generates data, the article applies Bayesian Inference to estimate a parameter of interest.
+  
+  It is seen that generating data using a particular value of p enables the Bayesian Approach to suggest a posterior distribution for p.
+
+  The accompanying pdf contains more indepth details as well as demonstration and theory derivation.
 
 ## Statistical Learning
 1. **Linear Regression**
