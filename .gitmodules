@@ -40,3 +40,6 @@
 [submodule "GamblersRuin"]
 	path = GamblersRuin
 	url = https://github.com/TanselArif-21/GamblersRuin
+[submodule "WheelofFortune"]
+	path = WheelofFortune
+	url = https://github.com/TanselArif-21/WheelofFortune
